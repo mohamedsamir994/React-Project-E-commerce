@@ -1,0 +1,52 @@
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.allproduct {
+  margin-top: 100px;
+}
+
+.product-img {
+  transition: 0.5s;
+}
+
+.product-img:hover {
+  transform: scale(1.1);
+}
+
+.card-only {
+  transition: 0.5s;
+}
+.card-only:hover {
+  transform: translateY(-15px);
+}
+.loging {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+}
+
+.loging form {
+  width: 350px;
+  text-align: center;
+}
+
+.loginheader {
+  text-align: center;
+  margin-right: 100px;
+}
+form {
+  text-align: center;
+}
+
+.aboutHeader {
+  color: #ff745c;
+}
+
+.aboutBut {
+  color: #ff745c;
+}
+
+.lol {
+  text-align: left;
+}
